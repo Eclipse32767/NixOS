@@ -2,5 +2,8 @@
 result
 result-*
 
+# Ignore device dependent config
+hardware-configuration.nix
+
 # Ignore automatically generated direnv output
 .direnv
